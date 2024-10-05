@@ -25,7 +25,9 @@ c) Edit the package.json file to include the following:
 
 ## Running the code
 Run the script using the following command:
-```bash node ether.js```
+```javascript
+node ether.js
+```
 
 ## The output
 ```json
