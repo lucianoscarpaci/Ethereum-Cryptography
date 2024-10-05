@@ -1,0 +1,16 @@
+{
+  "name": "ethereum-cryptography",
+  "version": "1.0.0",
+  "description": "This project uses secp256k1, keccak256 hashing, and BIP39 for generating vanity addresses, implementing secure cryptographic operations and creating mnemonic phrases.",
+  "main": "ether.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereum-cryptography": "^3.0.0"
+  }
+}
