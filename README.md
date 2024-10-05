@@ -28,9 +28,9 @@ Run the script using the following command:
 ```bash node ether.js```
 
 ## The output
-``` { hex_address: '0xabcd5ddad1389a502cbf75fe01b1c6ecaac2a2a4' } {
-  printKey: 'private key in hex here'
-}
+```json
+"hex_address: '0xabcd5ddad1389a502cbf75fe01b1c6ecaac2a2a4", 
+"printKey: 'private key in hex here"
 ```
 
 ## Verify the address by using etherscan
